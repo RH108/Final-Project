@@ -8,4 +8,4 @@ Final Project for Peer-Graded Assessment; IBM Front-end
 Output
    simple interest = p*t*r
 ```
-© 2022 XYZ, Inc.
+© 2021 XYZ, Inc.
